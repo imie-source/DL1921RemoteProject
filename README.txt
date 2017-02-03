@@ -16,3 +16,7 @@ Veuillez consulter la licence avant de l'utiliser.
     \__/  /(_E     \__/
       (  /
        MM
+
+Veuillez consulter la licence avant de l'utiliser.
+
+Yop, ça va ? :)
