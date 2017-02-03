@@ -1,6 +1,6 @@
 Bienvenue dans mon super projet.
 
-Un projet versionné par GIT
+Un projet versionné par GIT!
 
 
-azerty
+Veuillez consulter la licence avant de l'utiliser.
